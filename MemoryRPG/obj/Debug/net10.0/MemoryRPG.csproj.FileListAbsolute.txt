@@ -1,0 +1,15 @@
+/workspaces/memory/MemoryRPG/bin/Debug/net10.0/MemoryRPG
+/workspaces/memory/MemoryRPG/bin/Debug/net10.0/MemoryRPG.deps.json
+/workspaces/memory/MemoryRPG/bin/Debug/net10.0/MemoryRPG.runtimeconfig.json
+/workspaces/memory/MemoryRPG/bin/Debug/net10.0/MemoryRPG.dll
+/workspaces/memory/MemoryRPG/bin/Debug/net10.0/MemoryRPG.pdb
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.AssemblyInfoInputs.cache
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.AssemblyInfo.cs
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.csproj.CoreCompileInputs.cache
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.sourcelink.json
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.dll
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/refint/MemoryRPG.dll
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.pdb
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/MemoryRPG.genruntimeconfig.cache
+/workspaces/memory/MemoryRPG/obj/Debug/net10.0/ref/MemoryRPG.dll
